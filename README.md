@@ -5,6 +5,6 @@ Fully functional Colab with the leaked Anything3, NAI model and SD-V1.5 included
 
 The instructions are on the Colab.
 
-# Current flaws: (Open to pull requests for fixes)
+# Current flaws:
 - Google Colab has a 12 hours per day limit for free users 
 - Gradio has a 24 hours per instance limit
