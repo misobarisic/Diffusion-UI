@@ -5,6 +5,10 @@ Fully functional Colab with  Anything 4.5, 4.0, 3.0, NAI, Waifu Diffusion 1.3, H
 
 The instructions are on the Colab.
 
+# NOTICE
+
+Running any sort of remote UI (including this) is against the **Terms of Service**! Use at your own risk.
+
 # Current flaws:
 - Google Colab has a 12 hours per day limit for free users 
 - Gradio not working correctly. To fix this use ngrok. Register if you don't have an account and change `other-args` to `--ngrok <token>`
